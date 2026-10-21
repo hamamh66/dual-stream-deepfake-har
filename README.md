@@ -1,5 +1,7 @@
 # Dual-Stream Deepfake Forensics and Real-Time Human Activity Recognition
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23523972.svg)](https://doi.org/10.5281/zenodo.23523972)
+
 Reproducible implementation of a dual-stream video-surveillance system in which one lightweight convolutional neural network (six convolutional blocks, 183,682 parameters, about 1.03 GFLOPs per 256×256 frame) is trained separately for two tasks that run on the same video frames:
 
 * **deepfake visual forensics**: real vs. GAN-generated face images;
@@ -60,3 +62,7 @@ Python 3.13, TensorFlow 2.21, OpenCV 4.14 (YuNet face detector from the OpenCV m
 ## License
 
 Code: MIT License (see `LICENSE`). The datasets are not redistributed here and remain under the terms of their providers.
+
+## Citation
+
+Archived release v1.0.0: https://doi.org/10.5281/zenodo.23523972 (see also `CITATION.cff`).

@@ -15,5 +15,6 @@ authors:
   - given-names: Habib
     family-names: Hamam
 version: 1.0.0
+doi: 10.5281/zenodo.23523972
 license: MIT
 repository-code: "https://github.com/hamamh66/dual-stream-deepfake-har"
