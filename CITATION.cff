@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Dual-Stream Deepfake Forensics and Real-Time Human Activity Recognition: reproducible implementation"
+authors:
+  - given-names: Zaib
+    family-names: un Nisa
+  - given-names: Tehseen
+    family-names: Mazhar
+  - given-names: Amal
+    family-names: Al-Rasheed
+  - given-names: Muhammad Amir
+    family-names: Khan
+  - given-names: Weiwei
+    family-names: Jiang
+  - given-names: Habib
+    family-names: Hamam
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/hamamh66/dual-stream-deepfake-har"

@@ -1,0 +1,1 @@
+{"epochs_run": 54, "best_epoch": 52, "best_val_acc": 0.9674500226974488, "stopped_manually": true, "mixed_precision": true}

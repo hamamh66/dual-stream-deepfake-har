@@ -1,0 +1,15 @@
+{
+  "title": "Dual-Stream Deepfake Forensics and Real-Time Human Activity Recognition: reproducible implementation",
+  "upload_type": "software",
+  "description": "Notebook, trained model weights, training logs and recorded results of a dual-stream video-surveillance system in which one lightweight CNN is trained separately for deepfake face detection and human activity recognition. All experiments use public datasets (140k Real and Fake Faces, Hard Fake vs Real Faces, Human Activity Recognition - Video Dataset).",
+  "creators": [
+    {"name": "un Nisa, Zaib"},
+    {"name": "Mazhar, Tehseen"},
+    {"name": "Al-Rasheed, Amal"},
+    {"name": "Khan, Muhammad Amir"},
+    {"name": "Jiang, Weiwei"},
+    {"name": "Hamam, Habib", "affiliation": "Université de Moncton"}
+  ],
+  "license": "MIT",
+  "keywords": ["deepfake detection", "human activity recognition", "lightweight CNN", "real-time video", "feature fusion", "cross-dataset generalisation", "reproducibility"]
+}

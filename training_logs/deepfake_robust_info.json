@@ -1,0 +1,1 @@
+{"epochs_run": 52, "best_epoch": 51, "best_val_acc": 0.962249994277954, "recipe": "robust", "train_minutes_this_session": 187.38388992547988, "mixed_precision": true}
